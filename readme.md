@@ -1,29 +1,30 @@
-**This is a simple text based diving game.**
-You are a diver who is searching for oysters and pearls.
+**Underwater Treasure Hunt**
+This is a simple text-based diving game.
+You are a diver searching for oysters and pearls.
+
 Oysters are worth 1 point.
 Pearls are worth 5 points.
-The objective of the game is to collect 20 points or more.
-
+The objective is to collect 20 points or more before danger strikes.
 **Beware!**
-There are sharks in the water. An encounter with the shark ends the game.
-It is advisable to take precaucion when colllecting oysters and pearls.
+Sharks lurk in the water! If you encounter a shark, your game ends immediately.
+Use the look command for safe exploration and avoid reckless moves.
+Octopi are unpredictable: they may help or hinder you, but encountering them never ends the game.
+**How to Play**
+Start the game in your terminal and use the following commands:
 
-There are also octopi wchich may help or hinder you if you encounter them. Encountering an ocopus never ends the game.
+swim — Swim to a new place, searching for treasures.
+dive — Plunge deeper into the ocean for treasure.
+look — Look around to assess the situation and spot dangers.
+surface — Surface to check your collection and escape risky situations; the game continues.
+quit — Ends the game.
+**Instructions**
+Install Python (preferably version 3.7+):
+See: Python installation instructions
 
-**How to play**
-Upon starting the game in the terminal you are presented with a text-based interface.
-Your options are typing these words:
-swim: typing this will promt your diver so swim to a different place. Use this to move around
+Download the underwater.py file.
 
-dive: plunge deeper into the ocean. Use this to dive deeper.
+Open your terminal and run:
 
-look: look around and evaluate the situation
+python underwater.py
 
-surface: Use this to get out of hairy situations, surfacing doesn't end the game, you can swim and dive from the surface again.
-
-quit: this command ends the game immediately.
-
-Requirements:
-You have to install python in order to play this game. [Python instalation instructions](https://wiki.python.org/moin/BeginnersGuide)
-
-Use your terminal to play this game. Initialize python with the underwater.py file. Then follow the instructions on screen.
+Follow the on-screen prompts to play!
