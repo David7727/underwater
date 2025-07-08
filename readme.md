@@ -31,7 +31,8 @@ See: Python installation instructions
 Download the underwater.py file.
 
 Open your terminal and run:
-
-```python underwater.py```
+<pre>
+python underwater.py
+</pre>
 
 Follow the on-screen prompts to play!
