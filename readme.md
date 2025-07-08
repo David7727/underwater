@@ -24,6 +24,6 @@ surface: Use this to get out of hairy situations, surfacing doesn't end the game
 quit: this command ends the game immediately.
 
 Requirements:
-You have to install python in order to play this game. [Python instalation instructions:](https://wiki.python.org/moin/BeginnersGuide)
+You have to install python in order to play this game. [Python instalation instructions](https://wiki.python.org/moin/BeginnersGuide)
 
 Use your terminal to play this game. Initialize python with the underwater.py file. Then follow the instructions on screen.
